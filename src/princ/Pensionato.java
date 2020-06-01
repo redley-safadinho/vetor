@@ -34,7 +34,7 @@ public class Pensionato {
 				
 			}
 			
-
+   System.out.println("nada ");
 		}
 	}
 
